@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SadanandMiskin
 - 👀 I’m interested in web and blockchain
-- 🌱 I’m currently learning front and backend (web3.0)
-- 💞️ I love JavaScript
+- 🌱 I’m currently learning Backend Development
+- 💞️ I love to write JavaScript
+- NodeJS,expressJS,MongoDB
 -
 
 <!---
