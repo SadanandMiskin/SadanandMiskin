@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadanand Miskin</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<h2 align="center"><a href="bit.ly/miskinsadanand">PORTFOLIO</a></h2>
+<h2 align="center">bit.ly/miskinsadanand</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadanand-miskin-a1414a1a4/) 
