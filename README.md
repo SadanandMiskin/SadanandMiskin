@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadanand-miskin-a1414a1a4/) 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+https://img.shields.io/badge/any_text-you_like-blue
 
 
 
