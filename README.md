@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1>Hey There , I'm Sadanand Miskin</h1><br>
-💻 I'm currently working on APIs and database management<br>❤️‍🔥 I like to code in JS<br>🤝 Looking for great opportunities
+💻 I'm currently working on APIs and database management<br>❤️‍🔥 code in JS<br>🤝 Looking for great opportunities
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadanand-miskin-a1414a1a4/) 
