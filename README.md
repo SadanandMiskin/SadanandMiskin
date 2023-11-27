@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1>Hey There , I'm Sadanand Miskin</h1><br>
 
 💻 I'm currently working on APIs and database management<br>❤️‍🔥 code in JS<br>🤝 Looking for great opportunities
