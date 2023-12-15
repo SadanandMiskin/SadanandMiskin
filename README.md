@@ -1,12 +1,14 @@
  <h1 align="center">Hi 👋, I'm Sadanand Miskin</h1>
- 
- <img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
+ <br>
+ <h4 align="center"><a href="https://sore-cyan-beetle-tie.cyclic.app/">▶️▶️ PORTFOLIO ◀️◀️</a></h4>
+<br>
+
+![bannner](https://github.com/SadanandMiskin/SadanandMiskin/assets/119523972/32711b9a-f793-4989-96ac-4508b82c6104)
 
 💻 I'm currently working on APIs and database management<br>❤️‍🔥 code in JS<br>🤝 Looking for great opportunities
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadanand-miskin-a1414a1a4/) 
-<h4>Portfolio - <a href="https://sore-cyan-beetle-tie.cyclic.app/">https://sore-cyan-beetle-tie.cyclic.app/</a></h4>
 
 ![banner](https://github.com/SadanandMiskin/SadanandMiskin/assets/119523972/5c584e3d-aa86-4ecf-84bc-1b34af764b1f)
 
