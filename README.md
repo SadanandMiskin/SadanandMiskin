@@ -3,7 +3,8 @@
  <h4 align="center"><a href="https://sore-cyan-beetle-tie.cyclic.app/">▶️▶️ PORTFOLIO ◀️◀️</a></h4>
 <br>
 
-![bannner](https://github.com/SadanandMiskin/SadanandMiskin/assets/119523972/32711b9a-f793-4989-96ac-4508b82c6104)
+![ezgif com-crop (1)](https://github.com/SadanandMiskin/SadanandMiskin/assets/119523972/5f84d1ff-6df2-46af-9b7a-35a84310151a)
+
 
 💻 I'm currently working on APIs and database management<br>❤️‍🔥 code in JS<br>🤝 Looking for great opportunities
 
