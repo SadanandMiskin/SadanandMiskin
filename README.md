@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Sadanand Miskin</h1>
  <br>
- <h2 align="center"><a href="https://sore-cyan-beetle-tie.cyclic.app/">▶️▶️ PORTFOLIO ◀️◀️</a></h2>
+ <h2 align="center"><a href="https://sadanandmiskin.xyz">▶️▶️ PORTFOLIO ◀️◀️</a></h2>
 <br>
 
 ![ezgif com-crop (1)](https://github.com/SadanandMiskin/SadanandMiskin/assets/119523972/5f84d1ff-6df2-46af-9b7a-35a84310151a)
