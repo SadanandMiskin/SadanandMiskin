@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=SadanandMiskin&icon=0&color=0" > </p>
 
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 Tech Tech Tech....
 - 💻 I’m looking to for great opportunities
 - 📫 How to reach me: miskinsadanand@gmail.com
 - ⚡ Fun fact: "When you work under pressure, pressure works with you."
