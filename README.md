@@ -1,9 +1,9 @@
-<p align="center"><a href="https://www.sadanandmiskin.xyz"><img src="https://github.com/user-attachments/assets/f180a875-2834-4e7e-8a65-32bbece1ca09" height="200px" align="center"></a></p>
+<p align="center"><a href="https://www.sadanandmiskin.vercel.app"><img src="https://github.com/user-attachments/assets/f180a875-2834-4e7e-8a65-32bbece1ca09" height="200px" align="center"></a></p>
  <br>
 
 <br>
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=SadanandMiskin&icon=0&color=0" > </p>
+
 
 
 - 🔭 Tech Tech Tech....
